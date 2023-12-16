@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oktayirfan
-- 👀 I’m interested in web, mobile development and machine learning.
-- 🌱 I’m currently learning HTML, CSS AND JavaScript.
+- 👀 I’m interested in web development and machine learning.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
